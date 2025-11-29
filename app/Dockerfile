@@ -33,4 +33,4 @@ RUN pip install -r requirements.txt
 # Switch to our user
 USER appuser
 
-CMD [ "fastapi", "dev", "main.py", "--host", "0.0.0.0", "--reload" ]
+CMD [ "fastapi", "run", "main.py", "--host", "0.0.0.0", "--port", "8000" ]
