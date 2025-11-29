@@ -7,8 +7,8 @@ Build a simple blog API with Posts and Authors in 10 minutes.
 ## 1. Setup
 
 ```bash
-git clone https://github.com/AGTGreg/FastAPIBoilerplate.git
-cd FastAPIBoilerplate
+git clone https://github.com/AGTGreg/Djast.git
+cd Djast
 docker compose up --build
 ```
 
